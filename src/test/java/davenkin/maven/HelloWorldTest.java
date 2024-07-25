@@ -9,6 +9,6 @@ public class HelloWorldTest {
     @Test
     public void should_say_hello() {
         HelloWorld helloWorld = new HelloWorld();
-        assertEquals(helloWorld.sayHello(),"Hello World!" );
+        assertEquals(helloWorld.sayHello(), "Hello World!");
     }
 }
