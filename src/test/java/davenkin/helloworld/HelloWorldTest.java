@@ -1,4 +1,4 @@
-package davenkin.hello;
+package davenkin.helloworld;
 
 import org.junit.jupiter.api.Test;
 
@@ -9,6 +9,6 @@ public class HelloWorldTest {
     @Test
     public void should_say_hello() {
         HelloWorld helloWorld = new HelloWorld();
-        assertEquals(helloWorld.sayHello(), "Hello World!");
+        assertEquals("Hello World!", helloWorld.sayHello());
     }
 }

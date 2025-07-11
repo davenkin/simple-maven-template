@@ -1,4 +1,4 @@
-package davenkin.hello;
+package davenkin.helloworld;
 
 public class HelloWorld {
 
