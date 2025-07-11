@@ -4,8 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>davenkin</groupId>
     <artifactId>simple-maven-project</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
-    <name>simple-maven-project</name>
+    <version>1.0.0</version>
     <description>Template project for Maven</description>
 
     <properties>
