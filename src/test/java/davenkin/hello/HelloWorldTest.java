@@ -1,4 +1,4 @@
-package davenkin.maven;
+package davenkin.hello;
 
 import org.junit.jupiter.api.Test;
 
